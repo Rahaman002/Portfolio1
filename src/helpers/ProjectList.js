@@ -1,5 +1,6 @@
 import Proj1 from "../assets/proj1.jpg";
 import Proj2 from "../assets/proj2.png";
+import Proj3 from "../assets/password-generator.jpg"
 
 export const ProjectList = [
   {
@@ -11,7 +12,14 @@ export const ProjectList = [
   {
     name: "Tic Tac Toe",
     image: Proj2,
-    skills: "HTML,CSS,Javascript",
-    link:"https://github.com/Rahaman002/https-github.com-Rahaman002-timepass-projects-tree-master-Tic-tac-toe.git"
+    skills: "ReactJS, ChakraUI",
+    link:"https://github.com/Rahaman002/Tictactoe.git"
+  },
+  
+  {
+    name: "Random Password Generator",
+    image: Proj3,
+    skills: "ReactJS, ChakraUI",
+    link:"https://github.com/Rahaman002/RandomPasswordGenerator.git"
   },
 ];
